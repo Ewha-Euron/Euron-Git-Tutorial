@@ -1,3 +1,3 @@
-# Euron-Git-Tutorial
+2022년 03월 05일 19시 11분 임세영# Euron-Git-Tutorial
 
-[바로가기](https://cafe.naver.com/ewhaeuron/177)
+
